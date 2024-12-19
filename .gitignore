@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Flask
+instance/
+*.db
+
+# Virtual Environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
