@@ -1,6 +1,3 @@
-Here’s a detailed README file template for your project, including explanations on how to run it, the design choices, and any assumptions or limitations.
-
----
 
 # Library Management System with Flask
 
@@ -119,6 +116,3 @@ The server will start running at `http://127.0.0.1:5000`. You can now access the
 1. **Token is invalid!**: Ensure that you are sending a valid JWT token in the `x-access-token` header with each request.
 2. **No module named 'jwt'**: If you see this error, ensure that you have installed the `PyJWT` library by running `pip install PyJWT`.
 
----
-
-This README should provide a comprehensive guide to understanding, running, and extending your project. Let me know if you need further details or assistance!
