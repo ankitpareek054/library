@@ -18,8 +18,8 @@ This project is a simple **Library Management System** built with **Flask**, whi
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/ankitpareek054/Better_-library-management.git
-cd Better_-library-management
+git clone https://github.com/ankitpareek054/library.git
+cd library
 ```
 
 ### 2. Install Dependencies
